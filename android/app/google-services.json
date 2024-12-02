@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24853518074",
+    "project_id": "chat-bot-71e93",
+    "storage_bucket": "chat-bot-71e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24853518074:android:37f4ff3da41715c15e5b43",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgkRvl4HwmQhD1O90evYQ1uZi3_CXAPmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
